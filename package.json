@@ -9,6 +9,10 @@
   "styleSheets": [
     "index.css"
   ],
+    "repository": {
+    "type": "git",
+    "url": "git@github.com:fumiya-kume/inkdrop-intellij-idea-syntax-theme.git"
+  },
   "engines": {
     "inkdrop": "^5.x"
   },
